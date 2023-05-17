@@ -1,0 +1,66 @@
+[
+   {
+      "titulo": "Banana Fish",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Psycho-Pass",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Death Note",
+      "estado": "pendiente"
+   },
+   {
+      "id": "4d43a1b0-38ff-45c3-a47c-4b7e0f9e97db",
+      "titulo": "Blacklist",
+      "estado": "en progreso",
+      "fecha": "2023-05-08T00:51:49.358Z"
+   },
+   {
+      "id": "5a389f74-cd35-4a00-a924-f5238941307b",
+      "titulo": "Scoums Wish",
+      "estado": "en progreso",
+      "fecha": "2023-05-08T00:54:38.305Z"
+   },
+   {
+      "titulo": "Vis a Vis",
+      "estado": "pendiente"
+   },
+   {
+      "id": "352cbe22-84ef-4348-9db6-d00d17e5aaf1",
+      "titulo": "Hometown Cha Cha Cha",
+      "estado": "terminada",
+      "fecha": "2023-05-08T01:07:57.592Z"
+   },
+   {
+      "id": "a9cfae94-c835-4854-b038-304ddf2be714",
+      "titulo": "Tudo bem nao ser normal",
+      "estado": "terminada",
+      "fecha": "2023-05-08T01:11:39.704Z"
+   },
+   {
+      "id": "0cb7e82f-f4f6-46d1-b894-b9cd5e3d3912",
+      "titulo": "Cidade Invisivel",
+      "estado": "pendiente",
+      "fecha": "2023-05-11T23:15:06.884Z"
+   },
+   {
+      "id": "d0a55aa9-5b4d-4816-ba5f-e316307cfd3b",
+      "titulo": "After the Rain",
+      "estado": "terminada",
+      "fecha": "2023-05-13T20:34:22.460Z"
+   },
+   {
+      "id": "5aa95512-ab41-45e8-b162-dcea4228095a",
+      "titulo": "Mi vecino Totoro",
+      "estado": "terminada",
+      "fecha": "2023-05-13T20:37:58.762Z"
+   },
+   {
+      "id": "e1bcc19b-460e-4c1b-b6e3-57d1911f9102",
+      "titulo": "The Great Passage",
+      "estado": "terminada",
+      "fecha": "2023-05-13T21:34:28.294Z"
+   }
+]
